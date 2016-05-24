@@ -1,8 +1,8 @@
 {
-  "name": "brunch-app",
-  "description": "Description",
-  "author": "Your Name",
-  "version": "0.1.0",
+  "name": "brunch-with-less-coffee",
+  "description": "Brunch skeleton with less and coffee script.",
+  "author": "Yves Lange",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": ""
